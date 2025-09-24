@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      My Neutralinojs App
+      My Neutralinojs App that does some things and some other things.
     </div>
   );
 }
